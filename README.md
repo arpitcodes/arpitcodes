@@ -14,7 +14,16 @@
 I develop software, build technical communities, create content and love meeting new people!
 
 
-[![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitcodes&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/arpitcodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitcodes)](https://github.com/arpitcodes/github-readme-stats)
+
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitcodes&show_icons=true&theme=radical)]
+
+
+
+<!-- [![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitcodes&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/arpitcodes/github-readme-stats) -->
+
+
+
 
 
 
